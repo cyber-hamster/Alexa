@@ -55,14 +55,5 @@ def no_intent():
     bye_text = "I am nos sure why you asked me to run then, but okay... bye"
     return statement(bye_text)
 
-
-
-
-
-
-
-
-
-
 if __name__== '__main__':
     app.run(debug=True)
